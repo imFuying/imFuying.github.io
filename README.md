@@ -1,9 +1,7 @@
 # 付颖 · 内容与创意作品集
 
-发布于 https://imfuying.github.io/ 。
+https://imfuying.github.io/
 
-纯静态 HTML、CSS、JavaScript，电脑及手机均采用约 400px 的竖版手账排版。
-
-高清屏使用较高分辨率图片；临近屏幕提前加载；慢网先显示预览；原图点击加载；首屏 CSS、脚本与小插画随 HTML 一同返回。
+约 400px 竖版，宋体与黑体。展示图片与放大图片采用 WebP，小型装饰与 SVG 内嵌；图片使用经大陆节点验证的 JSDMirror.com CDN，当前屏附近的图片限并发加载，离开后取消远处请求；放大时立即显示已加载图片，再替换高清图。无 Service Worker 或本地持久缓存。
 
 素材来源与许可见页面底部「素材来源」。
