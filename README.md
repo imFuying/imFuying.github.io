@@ -1,7 +1,9 @@
 # 付颖 · 内容与创意作品集
 
-个人简历与作品集，发布于 https://imfuying.github.io/ 。
+发布于 https://imfuying.github.io/ 。
 
 纯静态 HTML、CSS、JavaScript，电脑及手机均采用约 400px 的竖版手账排版。
+
+高清屏使用较高分辨率图片；临近屏幕提前加载；慢网先显示预览；原图点击加载；首屏 CSS、脚本与小插画随 HTML 一同返回。
 
 素材来源与许可见页面底部「素材来源」。
